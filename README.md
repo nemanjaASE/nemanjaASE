@@ -25,13 +25,6 @@ I am a software developer passionate about security, backend development, and bu
 ---
 
 ### 📊 GitHub Stats  
-<table>
-  <tr>
-    <td>
+
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false">    <img  alt="nemanjaASE's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/nemanjaASE?cardType=level&theme=github-dark&preferLogin=false" />  </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemanjaASE&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
+
