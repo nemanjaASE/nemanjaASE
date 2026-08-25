@@ -74,4 +74,4 @@ My work focuses on building reliable software solutions and exploring how large 
 
 ## Contact
 
-📫 **Email:** [nightwalker44ase@gmail.com](mailto:nightwalker44ase@gmail.com)
+📫 **Email:** [nemanja44ase@gmail.com](mailto:nightwalker44ase@gmail.com)
