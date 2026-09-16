@@ -74,4 +74,9 @@ My work focuses on building reliable software solutions and exploring how large 
 
 ## Contact
 
-📫 **Email:** [nemanja44ase@gmail.com](mailto:nightwalker44ase@gmail.com)
+📫 **Email:** [nemanja44ase@gmail.com](mailto:nemanja44ase@gmail.com)
+
+<a href="https://orcid.org/0009-0002-8978-1888" rel="me noopener noreferrer">
+  <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16" alt="ORCID iD icon" />
+  ORCID: https://orcid.org/0009-0002-8978-1888
+</a>
