@@ -1,82 +1,82 @@
-## Hi there! 👋
+<div align="center">
 
-### Teaching Assistant | Software Developer | AI & Neuro-Symbolic Systems Enthusiast
+# Nemanja
 
-I'm Nemanja, a teaching assistant and software developer interested in backend engineering, applied artificial intelligence, and neuro-symbolic systems.
+### Teaching Assistant · Backend & AI Engineer · Neuro-Symbolic AI Research
 
-My work focuses on building reliable software solutions and exploring how large language models can be combined with knowledge graphs, ontologies, semantic search, and symbolic reasoning. I am especially interested in biomedical AI, explainable AI, and practical AI systems that connect research concepts with real-world applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Engineering;Neuro-Symbolic+AI+Research;LLMs+%2B+Knowledge+Graphs+%2B+Ontologies;Biomedical+%26+Explainable+AI" alt="Typing SVG" />
 
----
+<a href="mailto:nemanja44ase@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://orcid.org/0009-0002-8978-1888"><img src="https://img.shields.io/badge/ORCID-0009--0002--8978--1888-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
 
-## Tech Stack
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/GridFS-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="GridFS" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
-## GitHub Stats
-
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false">
-  <img alt="nemanjaASE's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/nemanjaASE?cardType=level&theme=github-dark&preferLogin=false" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,cs,js,ts,fastapi,flask,dotnet,nodejs,express,react,vite,tailwind,html,css&perline=14" alt="Languages & Frameworks" />
 </a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,azure,linux,postman,vscode&perline=8" alt="Databases & Tools" />
+</a>
+<br/>
+<img src="assets/ai-stack.svg" alt="AI & LLM: PyTorch, scikit-learn, spaCy, Jupyter, Hugging Face, OpenAI, Claude, Gemini, Ollama, LangChain" />
+<br/>
+<img src="assets/knowledge-stack.svg" alt="Knowledge & Semantic Search: Neo4j, RDF, OWL, SPARQL, Protégé, FAISS, Sentence Transformers" />
 
+</div>
+
+---
+
+## About Me
+
+I am a teaching assistant and backend & AI engineer working at the intersection of **backend engineering** and **applied artificial intelligence**.
+
+My work centers on building reliable, well-structured software and on exploring how **large language models** can be combined with **knowledge graphs, ontologies, semantic search, and symbolic reasoning** to produce systems that are both capable and interpretable. I am particularly interested in **biomedical AI** and **explainable AI**, with the goal of turning research concepts into practical, real-world applications.
 
 ---
 
-## Academic & Research Interests
+## Research Interests
 
-- Neuro-symbolic AI
-- Large language models and knowledge graphs
-- Biomedical ontologies and semantic reasoning
-- Explainable AI and decision support systems
-- AI-assisted software engineering
-- Backend systems for data-driven applications
-
----
+| Area | Description |
+|------|-------------|
+| 🧠 **Neuro-Symbolic AI** | Integrating neural models with symbolic reasoning |
+| 🔗 **LLMs & Knowledge Graphs** | Grounding language models in structured knowledge |
+| 🧩 **Ontologies & Semantic Reasoning** | Formal knowledge modeling and inference over structured domains |
+| 🔍 **Explainable AI** | Transparent models and decision support systems |
+| 🛠️ **AI-Assisted Software Engineering** | Using AI to improve how software is built |
 
 ## Focus Areas
 
-- Backend development and API design
-- AI-powered application development
-- LLM integration and semantic search
-- Knowledge graph and ontology-based systems
-- Database modeling and data processing
-- Research-oriented software engineering
-  
+- **Backend Development** — API design, service architecture, and data-driven applications
+- **AI Application Development** — LLM integration, semantic search, and retrieval pipelines
+- **Knowledge Engineering** — ontology- and knowledge-graph-based systems
+- **Data Engineering** — database modeling and data processing
+- **Research Software** — turning research prototypes into maintainable software
+
 ---
 
-## Contact
+## GitHub Stats
 
-📫 **Email:** [nemanja44ase@gmail.com](mailto:nemanja44ase@gmail.com)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nemanjaASE&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemanjaASE&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=nemanjaASE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img width="100%" src="https://ghchart.rshah.org/3B82F6/nemanjaASE" alt="Contribution Calendar" />
+</div>
 
-<a href="https://orcid.org/0009-0002-8978-1888" rel="me noopener noreferrer">
-  <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16" alt="ORCID iD icon" />
-  ORCID: https://orcid.org/0009-0002-8978-1888
-</a>
+---
+
+## Get in Touch
+
+<div align="center">
+
+Open to research collaborations, discussions on neuro-symbolic and biomedical AI, and interesting software projects.
+
+<br/>
+
+<a href="mailto:nemanja44ase@gmail.com"><img src="https://img.shields.io/badge/Email-nemanja44ase%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://orcid.org/0009-0002-8978-1888"><img src="https://img.shields.io/badge/ORCID-0009--0002--8978--1888-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+
+</div>
